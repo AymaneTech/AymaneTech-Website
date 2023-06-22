@@ -2802,9 +2802,10 @@ label {
 	margin-bottom: 75px;
 	transform: translateY(0px);
 	transition: .3s linear;
+	display: flex;justify-content: center;	
 }
 .tools-icon img {
-	max-width: 66px;
+	max-width: 100px;
 }
 .tools-item:hover .tools-icon {
 	transform: translateY(7px);
@@ -2813,6 +2814,8 @@ label {
 	font-size: 24px;
 	margin-bottom: 15px;
 	color: var(--tg-white);
+	display: flex;
+	justify-content: center;
 }
 .tools-content p {
 	margin-bottom: 0;
