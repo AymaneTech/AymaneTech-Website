@@ -138,9 +138,13 @@
 	height: 500px;
 	width: 400px;
 } */
-
-
-
+.link-color{
+	margin-bottom: 0;
+	font-weight: 600;
+	font-size: 15px;
+	color: var(--tg-heading-font-color);
+	line-height: 1.4;
+}
 
 
 
@@ -2727,7 +2731,7 @@ label {
 .developr-img {
 	text-align: right;
 	position: relative;
-	padding-bottom: 80px;
+	padding-bottom: 10px;
 }
 .developr-img img {
 	border-radius: 42px;
