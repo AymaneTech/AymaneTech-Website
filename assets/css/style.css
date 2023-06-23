@@ -145,6 +145,14 @@
 	color: var(--tg-heading-font-color);
 	line-height: 1.4;
 }
+.btnn{
+	width: 150px;
+	height: 6px;
+	display: flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+	margin-top: 15px !important;
+}
 
 
 
