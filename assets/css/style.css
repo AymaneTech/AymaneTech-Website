@@ -186,9 +186,17 @@ transform: scale(1);
 	opacity:.8!important;
 	color: #fff !important;
 }
+.color{
+	color:#000 !important;
+}
+.color:hover{
+	color: var(--tg-orange) !important;
+}
 .logo-size{
 	width: 550px !important;
 }
+
+
 
 
 
